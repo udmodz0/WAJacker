@@ -9,7 +9,7 @@
     "restart": "pm2 restart WAJACKER"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "github:whiskeysockets/baileys",
+    "@whiskeysockets/baileys": "npm:baileys-pro",
     "adm-zip": "latest",
     "axios": "latest",
     "dotenv": "latest",
